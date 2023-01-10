@@ -1,0 +1,39 @@
+{
+  "name": "vote.com",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "@semaphore-protocol/group": "^2.6.1",
+    "@semaphore-protocol/hardhat": "^0.1.0",
+    "@semaphore-protocol/identity": "^2.6.1",
+    "@semaphore-protocol/proof": "^2.6.1",
+    "assert": "^2.0.0",
+    "constants-browserify": "^1.0.0",
+    "ethereum-waffle": "3.0.0",
+    "events": "^3.3.0",
+    "hardhat": "^2.12.3",
+    "os-browserify": "^0.3.0",
+    "parcel": "^2.7.0",
+    "path-browserify": "^1.0.1",
+    "process": "^0.11.10",
+    "stream-browserify": "^3.0.0"
+  },
+  "dependencies": {
+    "@material-ui/core": "4.12.4",
+    "@material-ui/icons": "4.9.1",
+    "@semaphore-protocol/contracts": "^2.6.1",
+    "@web3-react/core": "^6.1.9",
+    "@web3-react/injected-connector": "^6.0.7",
+    "axios": "^1.2.1",
+    "ethers": "^5.7.2",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "web3": "^1.8.0"
+  }
+}

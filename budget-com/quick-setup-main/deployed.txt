@@ -1,0 +1,110 @@
+
+
+# deploy --group 42 --network sepolia
+Verifier20 contract has been deployed to: 0x90AD0bf346E7A80B261fa7C51B4F828d49befA4E
+Poseidon library has been deployed to: 0xea01d3D79Abc49dbc4b42c514aF824EA83292E8c
+IncrementalBinaryTree library has been deployed to: 0xbfAdAfE4443b4172E6cc90EcD3c2a9db64c7De35
+Semaphore contract has been deployed to: 0xcBCE02E232747C9EF1D59b39f9fE6EFB1088a0AD
+Greeter contract has been deployed to: 0x598f953d72D787db86788fdAb345b6fA3cf9A780
+
+
+
+# deploy --group 42 --network sepolia
+Verifier20 contract has been deployed to: 0x7BfA37C9CE8533A996e94dDC0eb64Ead8eB30347
+Poseidon library has been deployed to: 0xa66cc84C4C4776C2759c38ce9e6eacc94026A564
+IncrementalBinaryTree library has been deployed to: 0x246c28A98Cb687E775c2c48dDa70EdaDbdbB0Af2
+Semaphore contract has been deployed to: 0xDD90E3d3B173aFa632e3885E699EFDe72b57D777
+Greeter contract has been deployed to: 0x0e4D337A34fc39a49639c68c61cFbe7CC9bdFABd
+
+
+
+# deploy --group 42 --network sepolia
+Verifier20 contract has been deployed to: 0x7eba81626127a416681d3b2Ec6CAb79a79d0ed72
+Poseidon library has been deployed to: 0x0B8948406CCe16DDD60e19577CEBa78F76E40C46
+IncrementalBinaryTree library has been deployed to: 0x63125b6B9fdF0c5f6b7A9643a97Ebd84044D88Ba
+Semaphore contract has been deployed to: 0x73e2e074D839414a827842Ef5c91a949f8f6b569
+Greeter contract has been deployed to: 0x787Da0D926117223044D6d3120216C39a12cD00D
+
+
+
+# deploy --group 42 --network sepolia
+Verifier20 contract has been deployed to: 0xcFBC4e6BC9E09B5Dd9c500f919AD2fe2d2D762A3
+Poseidon library has been deployed to: 0x9146443424ba63C7708B2891F31731cc26235431
+IncrementalBinaryTree library has been deployed to: 0x9985fa1bc48d57e87731227a3C479B76944DEab2
+Semaphore contract has been deployed to: 0xA2Da6f340B8b5a2e95F3026497a4D92e562e633B
+Greeter contract has been deployed to: 0x2c75D6bd1ac82d1A86A533E7f7DC852CC2F576A6
+
+
+
+# deploy --group 42 --network sepolia
+Verifier20 contract has been deployed to: 0xcc82e52b45e19e947441ee671FC54a255411A991
+Poseidon library has been deployed to: 0xefBf623778C0012c202E0226f54Fbc1Eb18D938e
+IncrementalBinaryTree library has been deployed to: 0x756862290D953063cCaA271072D0f66331fe1A04
+Semaphore contract has been deployed to: 0x71beA87008Ea058C44E3246a22BC9bEfA2A6998d
+Greeter contract has been deployed to: 0x70F80F32D86F63DBA4982d2f05f12d772b08418c
+
+
+
+
+# deploy --group 42 --network sepolia
+Verifier20 contract has been deployed to: 0xa65e54b24B53561780B786f422Ab2a138C59b4f0
+Poseidon library has been deployed to: 0xBB0Ec105d9f308C7685605915a05d5172277d5fF
+IncrementalBinaryTree library has been deployed to: 0x0C039F9E342C49cbE06382250b7F56cFB6E2C295
+Semaphore contract has been deployed to: 0xa54F39Bee1c3B563b77aBF886291709FD5d55ad9
+Greeter contract has been deployed to: 0x924A8ddE29e97a37e07fB20af9f00EBCD3A26F95
+
+
+kimiavip15696  2182
+
+
+---------------------------------------------------------------- ---------------------------------------------------------------
+
+
+Verifier20 contract has been deployed to: 0x10D50d13A0874559cBfd3BAa10e4319e84d5F912
+Poseidon library has been deployed to: 0x9CDEB3945A9E731Eb3D7ae6A1fBE6270A20e0e6E
+IncrementalBinaryTree library has been deployed to: 0x5302baFF90015597295d2cc177642dC04f2fa6B0
+Semaphore contract has been deployed to: 0x042B4832dC2d4CEeD81238C12DaE9ec5E463030c
+Greeter contract has been deployed to: 0x36D7998eFB47d221b064DA19dC1fd7385143DE59
+Done in 97.32s.
+
+
+
+
+Verifier20 contract has been deployed to: 0xFE03A31c67a37f9115DFcFB480cFC168F75aB50d
+Poseidon library has been deployed to: 0x43DD892C56d7De0eE49cbfB9c2A42780E890A07F
+IncrementalBinaryTree library has been deployed to: 0xc79ebE5B304009fF5af596D135d1e516E842D017
+Semaphore contract has been deployed to: 0x5E9BFF51fC87662e198B41836bcCcb9E6261aCE8
+Greeter contract has been deployed to: 0x2705F6114937db665fb79372C8D3115c8f827734
+Done in 114.94s.
+
+---------------------------------------------------- ------------------------------------------------
+
+Verifier20 contract has been deployed to: 0xb69a185Ce6C05284cf8C1edeF67Cd6BFd5412E1D
+Poseidon library has been deployed to: 0x68691C8133cd03838d0F78FE76472319Dac6eE09
+IncrementalBinaryTree library has been deployed to: 0x4B32A4faa7C202856A81AB54bE3e4133D729AD50
+Semaphore contract has been deployed to: 0x7F6abA51e380e6aA2Af15c343eB109eB9630A172
+Greeter contract has been deployed to: 0x3d65D3ACdd679Bc1F9c276dEa61aE02d05efE3F2
+Done in 90.50s.
+
+
+Verifier20 contract has been deployed to: 0x6b517bf85098f6058DB1eD4329e4796738A1E2D6
+Poseidon library has been deployed to: 0x101363CCB19FaB64176567806BD99a1A99a2b502
+IncrementalBinaryTree library has been deployed to: 0xBaae46584d9b9BA2E900E9A8d99D34986D95F31C
+Semaphore contract has been deployed to: 0xF318c482193315EDee629Cd4b1075f639027FcD7
+Greeter contract has been deployed to: 0xa6D36d197BD9f6b4AD8719c312f2091c3a0bADf9
+Done in 79.49s.
+
+Verifier20 contract has been deployed to: 0x3c4DE753E6A24748F7e9A355ec3450Ccb010b477
+Poseidon library has been deployed to: 0x62c77705AcB067470B78e34652D2C1C06F5Df562
+IncrementalBinaryTree library has been deployed to: 0x58A939246d6B441342f73969442F05f3a1115CE3
+Semaphore contract has been deployed to: 0xA403e279AC44A4B077975aB45070Cd8a3eAc542e
+Greeter contract has been deployed to: 0xBeDbE83c4fF923ac7c4477D9423581d42C0516E9
+Done in 218.23s.
+
+
+Verifier20 contract has been deployed to: 0xeE2C907Ffc0529279b635af162D0D5275C1ed330
+Poseidon library has been deployed to: 0x013cbD5C88D1556da11B7ae50529472d2F06783c
+IncrementalBinaryTree library has been deployed to: 0xFFa291eebF8eD665FD28D83E7E0364520Ea0D0CC
+Semaphore contract has been deployed to: 0x663F605950941087624D6F4F57a8053684f736Eb
+Greeter contract has been deployed to: 0x6986D2BcB9D9986a523743e31Ec794bE903fD347
+Done in 73.03s.

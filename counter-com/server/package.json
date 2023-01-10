@@ -1,0 +1,37 @@
+{
+  "name": "mern-stack-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@admin-bro/express": "^3.1.0",
+    "@admin-bro/mongoose": "^1.1.0",
+    "@truffle/hdwallet-provider": "^2.1.2",
+    "admin-bro": "^4.0.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.2",
+    "express": "^4.17.1",
+    "express-formidable": "^1.2.0",
+    "express-session": "^1.17.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.29",
+    "web3-eth-contract": "^1.8.1"
+  },
+  "devDependencies": {
+    "@semaphore-protocol/group": "^2.6.1",
+    "@semaphore-protocol/hardhat": "^0.1.0",
+    "@semaphore-protocol/identity": "^2.6.1",
+    "@semaphore-protocol/proof": "^2.6.1",
+    "nodemon": "^2.0.6"
+  }
+}
