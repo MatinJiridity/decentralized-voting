@@ -2,7 +2,7 @@ import { ethers, Contract } from 'ethers';
 import { abi as contractAbi } from '../quick-setup-main/artifacts/contracts/Greeter.sol/Greeter.json';
 import Web3 from 'web3';            
 
-const contractAddress = '0x6986D2BcB9D9986a523743e31Ec794bE903fD347';
+const contractAddress = '0xBeDbE83c4fF923ac7c4477D9423581d42C0516E9';
 var web3 = null;
 
 const getBlockchain = () =>
